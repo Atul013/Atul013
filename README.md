@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS engineering first-year student aiming to make a substantial impact on the world.
+CSE first-year student aiming to make a substantial impact on the world.
 
 
 ## 🌐 Socials:
