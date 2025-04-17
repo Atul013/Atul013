@@ -13,10 +13,31 @@
 - 🔐 Cybersecurity & AI Intern | Building secure, intelligent systems  
 - ⚙️ Languages: Python, C/C++, Go, JavaScript  
 - 🌱 Currently learning: Quantum Cryptography, LLM Security, and Red Team Automation
--  &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
+-  &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.
+<br><br><br>
 <h2>🤝 Connect with me:</h2>
-<a href="https://in.linkedin.com/in/atul-biju-3aa171290"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:atulbiju13@gmail.com"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>  <a  href="https://discord.gg/xnEEBwKkfb"  target="blank"><img  src="https://skillicons.dev/icons?i=discord"></a>
+<div>
+  <a href="https://in.linkedin.com/in/atul-biju-3aa171290" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:atulbiju13@gmail.com" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/xnEEBwKkfb" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/22618441/atul" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.notion.so/1d86fe2f83fa80e9a022fc180c327fa7?pvs=4" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+  </a>
+</div>
+<h2></h2>
 <div align="center" >
 <a  href="https://github.com/Atul013">
 
@@ -47,7 +68,7 @@ Because the future of both is intertwined — **AI needs security**, and **secur
 ####  What’s your dream role?
 
 A research-heavy role in **AI Security or Red Teaming**, where I can experiment, break things, and help organizations build intelligent systems that are secure by design.
-<hr></hr>
+<h2></h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
