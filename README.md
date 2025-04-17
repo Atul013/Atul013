@@ -13,6 +13,10 @@
 - 🔐 Cybersecurity & AI Intern | Building secure, intelligent systems  
 - ⚙️ Languages: Python, C/C++, Go, JavaScript  
 - 🌱 Currently learning: Quantum Cryptography, LLM Security, and Red Team Automation
+-  &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
 <br>
 <br>
@@ -39,6 +43,11 @@ Because the future of both is intertwined — **AI needs security**, and **secur
 ####  What’s your dream role?
 
 A research-heavy role in **AI Security or Red Teaming**, where I can experiment, break things, and help organizations build intelligent systems that are secure by design.
-
+<hr></hr>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 
