@@ -18,7 +18,7 @@
 <h2>🤝 Connect with me:</h2>
 <a href="https://in.linkedin.com/in/atul-biju-3aa171290"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:atulbiju13@gmail.com"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>  <a  href="https://discord.gg/xnEEBwKkfb"  target="blank"><img  src="https://skillicons.dev/icons?i=discord"></a>
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/Atul013">
 
 <br>
 <br>
