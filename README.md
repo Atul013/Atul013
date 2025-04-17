@@ -15,6 +15,8 @@
 - 🌱 Currently learning: Quantum Cryptography, LLM Security, and Red Team Automation
 -  &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
+<h2>🤝 Connect with me:</h2>
+<a href="https://www.linkedin.com/in/patrickwebsdev/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:contacto@patricioalmada.com.ar"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>  <a  href="https://discordapp.com/users/415654011887419413"  target="blank"><img  src="https://skillicons.dev/icons?i=discord"></a>
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 
@@ -30,7 +32,9 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
-
+<br><br>
+  #
+  ![What Am I Listening](https://firebasestorage.googleapis.com/v0/b/git-ytmusic.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=db809558-27fc-4201-a54b-e6c979fcc7ac)
 <br><br>
 
 ## FAQ
