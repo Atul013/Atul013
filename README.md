@@ -60,9 +60,6 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
 <br><br>
-  #
-  ![What Am I Listening](https://firebasestorage.googleapis.com/v0/b/git-ytmusic.firebasestorage.app/o/listening-on-ytmusic.svg?alt=media&token=db809558-27fc-4201-a54b-e6c979fcc7ac)
-<br><br>
 
 ## FAQ
 
