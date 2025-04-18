@@ -59,7 +59,6 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
-<br><br>
 
 <br><br>
 
@@ -74,10 +73,16 @@ Because the future of both is intertwined — **AI needs security**, and **secur
 
 A research-heavy role in **AI Security or Red Teaming**, where I can experiment, break things, and help organizations build intelligent systems that are secure by design.
 <h2></h2>
+
+<br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul013&" alt="atul013" /></p>
+
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
 
 
