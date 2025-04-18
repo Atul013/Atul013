@@ -17,16 +17,13 @@
 <br><br><br>
 <h2>🤝 Connect with me:</h2>
 <div>
+  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://in.linkedin.com/in/atul-biju-3aa171290" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:atulbiju13@gmail.com" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/xnEEBwKkfb" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/22618441/atul" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
@@ -36,6 +33,15 @@
   <a href="https://www.notion.so/1d86fe2f83fa80e9a022fc180c327fa7?pvs=4" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
     <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/xnEEBwKkfb" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/icarus.one3/" target="_blank" style="display:inline-block; width: 18%; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Discord" />
+  </a>
+   
 </div>
 <h2></h2>
 <div align="center" >
