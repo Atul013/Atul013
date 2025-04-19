@@ -75,7 +75,11 @@ A research-heavy role in **AI Security or Red Teaming**, where I can experiment,
 <h2></h2>
 
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul013&" alt="atul013" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=atul013&theme=default&background=fff3e0&currStreakLabel=4e342e&fire=d84315&ring=6d4c41&sideNums=3e2723&sideLabels=3e2723&dates=5d4037&currStreakNum=bf360c"
+    alt="atul013" />
+</p>
 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
