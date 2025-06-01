@@ -14,7 +14,7 @@
 - ⚙️ Languages: Python, C/C++, Go, JavaScript  
 - 🌱 Currently learning: Quantum Cryptography, LLM Security, and Red Team Automation
 -  &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.
-<br><br><br>
+<br><br>
 <h2>🤝 Connect with me:</h2>
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
