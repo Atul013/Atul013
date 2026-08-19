@@ -53,7 +53,11 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Atul013/ytm-widget/main/music.svg" alt="Last played" width="420" />
+<!--YTM:START-->
+<a href="https://music.youtube.com">
+  <img src="https://raw.githubusercontent.com/Atul013/ytm-widget/main/music.svg" alt="Last played on YouTube Music" width="420" />
+</a>
+<!--YTM:END-->
 
 <br>
 <br>
