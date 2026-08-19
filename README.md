@@ -54,6 +54,11 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Atul013/ytm-widget/main/music.svg" alt="Last played" width="420" />
+
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/Atul013/ytm-widget/main/top.svg" alt="Most played this week" width="420" />
+
 </p>
 
 <br><br>
