@@ -53,7 +53,7 @@
 
 
 <p align="center">
-![Last played](https://raw.githubusercontent.com/Atul013/ytm-widget/main/music.svg)
+<img src="https://raw.githubusercontent.com/Atul013/ytm-widget/main/music.svg" alt="Last played" width="420" />
 </p>
 
 <br><br>
