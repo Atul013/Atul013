@@ -54,7 +54,7 @@
 
 <p align="center">
 <!--YTM:START-->
-<a href="https://music.youtube.com/watch?v=k1IOL76FWkY">
+<a href="https://music.youtube.com/watch?v=50vF_xHR-Lo">
   <img src="https://raw.githubusercontent.com/Atul013/ytm-widget/main/music.svg" alt="Last played on YouTube Music" width="420" />
 </a>
 <!--YTM:END-->
