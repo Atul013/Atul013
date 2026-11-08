@@ -16,7 +16,7 @@ export async function fetchProfile(login, token, { latestFrom } = {}) {
   const { user: u } = await gql(`query($login:String!,$since:GitTimestamp!){user(login:$login){
     id name createdAt
     contributionsCollection{contributionCalendar{totalContributions}}
-    repositories(ownerAffiliations:OWNER,isFork:false,first:100){totalCount nodes{
+    repositories(ownerAffiliations:OWNER,isFork:false,privacy:PUBLIC,first:100){totalCount nodes{
       id name stargazerCount
       languages(first:5,orderBy:{field:SIZE,direction:DESC}){edges{size node{name}}}
       defaultBranchRef{target{... on Commit{history(since:$since,first:100,author:{id:"__ID__"}){totalCount pageInfo{hasNextPage endCursor} nodes{committedDate messageHeadline}}}}}

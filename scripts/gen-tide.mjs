@@ -34,7 +34,7 @@ const grid = [0, 0.5, 1].map(f => {
 }).join('');
 const months = ticks.map(([x, m]) => `<line x1="${x}" x2="${x}" y1="${B}" y2="${B + 5}" stroke="${C.s3}"/><text x="${x}" y="${B + 22}" text-anchor="middle" ${LABEL} font-size="13">${m}</text>`).join('');
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Commits per week over the last year: ${total} commits in total, the busiest week had ${max} commits around ${peakDate}.">
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Public commits per week over the last year: ${total} commits in total, the busiest week had ${max} commits around ${peakDate}.">
 <style>${style(['sans600', 'sans400', 'mono'])}
 @keyframes rev{from{transform:scaleX(0)}to{transform:scaleX(1)}}.rev{transform-origin:0 0;animation:rev 2.6s cubic-bezier(.22,1,.36,1) both}
 @keyframes show{from{opacity:0}to{opacity:1}}.show{animation:show .5s ease-out 2.4s both}
@@ -47,9 +47,9 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
 </defs>
 ${panel(W, H, 16)}<rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="15.5" fill="none" stroke="${C.s3}"/>
 <text x="${L}" y="44" class="g t" font-size="16" font-weight="600">Tide chart</text>
-<text x="${L}" y="64" class="g" fill="${C.text}" fill-opacity=".78" font-size="14">Commits per week over the last year</text>
+<text x="${L}" y="64" class="g" fill="${C.text}" fill-opacity=".78" font-size="14">Public commits per week over the last year</text>
 <text x="${W - R}" y="44" text-anchor="end" class="g" font-size="22" font-weight="600" fill="${C.amber}">${total}</text>
-<text x="${W - R}" y="64" text-anchor="end" class="g" fill="${C.text}" fill-opacity=".78" font-size="14">commits in 12 months</text>
+<text x="${W - R}" y="64" text-anchor="end" class="g" fill="${C.text}" fill-opacity=".78" font-size="14">public commits in 12 months</text>
 ${grid}
 <g clip-path="url(#clip)">
   <path d="${d} L${nx} ${B} L${pts[0][0]} ${B} Z" fill="url(#fill)"/>

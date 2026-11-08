@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/generated/tide.svg" alt="Commits per week over the last year: 913 commits in total, with the busiest week at 239 commits in September." width="100%">
+  <img src="assets/generated/tide.svg" alt="Public commits per week over the last year, drawn as a tide-style line chart." width="100%">
 </p>
 
 <p align="center">
